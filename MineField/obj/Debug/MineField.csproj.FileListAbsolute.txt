@@ -1,0 +1,10 @@
+D:\CAVC\HND year 3\C\MineField\MineField\bin\Debug\MineField.exe.config
+D:\CAVC\HND year 3\C\MineField\MineField\bin\Debug\MineField.exe
+D:\CAVC\HND year 3\C\MineField\MineField\bin\Debug\MineField.pdb
+D:\CAVC\HND year 3\C\MineField\MineField\obj\Debug\MineField.csprojResolveAssemblyReference.cache
+D:\CAVC\HND year 3\C\MineField\MineField\obj\Debug\MineField.Properties.Resources.resources
+D:\CAVC\HND year 3\C\MineField\MineField\obj\Debug\MineField.csproj.GenerateResource.Cache
+D:\CAVC\HND year 3\C\MineField\MineField\obj\Debug\MineField.exe
+D:\CAVC\HND year 3\C\MineField\MineField\obj\Debug\MineField.pdb
+D:\CAVC\HND year 3\C\MineField\MineField\obj\Debug\MineField.frmResults.resources
+D:\CAVC\HND year 3\C\MineField\MineField\obj\Debug\MineField.frmGame.resources
